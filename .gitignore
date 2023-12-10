@@ -1,3 +1,4 @@
-data/
+data/*
+!data/is_land.nc
 .ipynb_checkpoints/
 venv/
